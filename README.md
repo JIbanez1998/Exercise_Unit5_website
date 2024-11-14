@@ -4,3 +4,4 @@ On this repository we will perform exercises for Block 1 ‑ Compulsory Exercise
 Using Git from subject Development Environments for that we will use CSS & HTML.
 
 File can be open by accessing to the file index.html
+Add the GitHub Pages URL for hosting https://jibanez1998.github.io/Exercise_Unit5_website/
